@@ -1,2 +1,2 @@
 ## Live Projects  
-- [My work](https://Fnu-Dorjee.github.io/my_game/)  
+- [My Game Project](https://Fnu-Dorjee.github.io/my_game/)  
